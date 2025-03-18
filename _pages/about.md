@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>个人简介 - 张三</title>
+    <title>个人简介 - 吴佳琦</title>
     <style>
         * {
             margin: 0;
@@ -115,8 +115,8 @@
         <div class="profile-header">
             <img src="wujiaqi.jpg" alt="吴佳琦" class="profile-photo">
             <div class="basic-info">
-                <h1>张三</h1>
-                <p>出生日期：1995年3月15日</p>
+                <h1>吴佳琦</h1>
+                <p>出生日期：2006年2月17日</p>
                 <p>所属大学：华中科技大学 船舶与海洋工程系 轮机工程专业</p>
             </div>
         </div>
@@ -139,7 +139,6 @@
     <section id="skills">
         <h2>个人能力</h2>
         <ul>
-            <li>基本掌握HTML</li>
             <li>熟悉c++编程语言</li>
             <li>具有良好的数学素养</li>
             <li>具有优秀的学习能力</li>
